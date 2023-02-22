@@ -1,0 +1,101 @@
+#elementos {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  color: aliceblue;
+}
+
+#nav-el {
+  text-decoration: none;
+  color: rgb(8, 8, 8);
+  border: dashed 1px;
+}
+
+#nav-el:hover {
+  background-color: rgb(240, 210, 210);
+}
+
+#benf {
+  text-decoration: none;
+  color: rgb(248, 247, 247);
+}
+
+#benf:hover {
+  color: rgb(248, 247, 247);
+  background-color: palevioletred;
+}
+
+body {
+  background-color: rgb(247, 184, 195);
+}
+
+#barra {
+  margin-top: 10px;
+}
+
+#beneficios {
+  background-color: rgba(198, 23, 233, 0.904);
+  border: 2px solid white;
+  height: 200px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+#cartao {
+  background-color: rgb(238, 106, 172);
+  border: 2px solid rgb(248, 242, 243);
+  height: 90px;
+  width: 150px;
+}
+
+#cartaozinho {
+
+    text-decoration: none;
+    color: rgb(245, 238, 238);
+    
+
+}
+
+#cartaozinho:hover {
+
+    
+    background-color: rgb(235, 176, 212);
+
+}
+#produtos {
+
+    padding: 10px;
+    margin-top:  -250px;
+  margin-left: 40%;
+  border: 1px double;
+ width: 350px;
+ text-align: center;
+ background-color: rgb(193, 255, 234);
+  
+}
+
+#cabç {
+
+ 
+  color: rgb(8, 8, 8);
+  
+
+}
+
+#cabeçalho {
+
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  color: aliceblue;
+  border: none;
+  margin-top: 100px;
+ 
+
+
+}
+
+h6 {
+
+  text-align: center;
+}
