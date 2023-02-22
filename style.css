@@ -11,6 +11,14 @@
   border: dashed 1px;
 }
 
+#navbar {
+
+  background-color: rgb(190, 137, 192);
+  border: 5px dotted pink;
+  margin-bottom: 100px;
+
+}
+
 #nav-el:hover {
   background-color: rgb(240, 210, 210);
 }
@@ -99,3 +107,12 @@ h6 {
 
   text-align: center;
 }
+
+#titulo {
+
+  text-align: center;
+  border: none;
+  margin-top: 0px;
+  font-style: oblique;
+  color: rgb(243, 240, 242);
+text-shadow: 2px 1px black;
